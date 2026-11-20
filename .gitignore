@@ -1,0 +1,12 @@
+*.o
+*.a
+*.so
+build/
+bin/
+Intermediate_Values/
+.DS_Store
+__MACOSX/
+.vscode/
+uov_bench
+qruov_bench
+PQCgenKAT_sign
